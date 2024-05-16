@@ -1,0 +1,160 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8" />
+        <title>After Degree</title>
+
+      </head>
+     
+    
+    <style>
+
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 0;
+  }
+  
+  html {
+    box-sizing: border-box;
+  }
+  
+  *, *:before, *:after {
+    box-sizing: inherit;
+  }
+  
+  .column {
+    float: left;
+    width: 33.3%;
+    margin-bottom: 16px;
+    padding: 0 8px;
+  }
+  
+  .card {
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+    margin: 8px;
+  }
+  
+  .about-section {
+    padding: 50px;
+    text-align: center;
+    background-color: #474e5d;
+    color: white;
+  }
+  
+  .container {
+    padding: 0 16px;
+  }
+  
+  .container::after, .row::after {
+    content: "";
+    clear: both;
+    display: table;
+  }
+  
+  .title {
+    color: grey;
+  }
+  
+  .button {
+    border: none;
+    outline: 0;
+    display: inline-block;
+    padding: 8px;
+    color: white;
+    background-color: rgba(226, 100, 83, 0.912);
+    text-align: center;
+    cursor: pointer;
+    width: 100%;
+  }
+  .button a{
+    font-size: x-large;
+    font-weight: 500;
+  }
+  
+  .button:hover {
+    background-color: rgb(234, 166, 166);
+  }
+  
+  @media screen and (max-width: 650px) {
+    .column {
+      width: 100%;
+      display: block;
+    }
+  }
+
+    </style>
+ <body>
+
+<div class="about-section">
+    <h1>CAREER OPTIONS AFTER DEGREE.</h1>
+    <p>The conclusion of secondary education happens at the end of the 10th standard. However, at this point in your educational journey, you will have to choose between completing senior secondary schooling in either Commerce stream, Arts, or Science stream or opting directly from a long list of courses after 10th standard. Rather than moving to 11th standard, many students go for skill development courses or training programs that can get them placed into their field of interest. If you are planning to pursue a program right after 10th but don’t know where to start, then you have certainly come to the right place! Here is a detailed blog that elaborates on a comprehensives list of courses after 10th standard and the varied benefits they offer.</p>
+   
+  </div>
+  
+  <h1 style="text-align:center"> Top Courses after DEGREE</h1>
+  <div class="row">
+    <div class="column">
+      <div class="card">
+        <img src="MCA.gif" alt="MCA" style="width:80%">
+        <div class="container">
+          <h2>M.C.A</h2>
+          <p class="title"><b>Master of Computer Applications</b></p>
+          <p>Master of Computer Applications is a postgraduate program with a course duration of <b>2-years</b>.
+          <p><b>*The MCA course aims to train students in different aspects of computer programs, computer architecture, application software, operating systems, and more. Students seeking to excel in the domain of computer and information technology can take up this master of computer applications course.</b><br> 
+           <b>*Over the years, IT industry has seen an evident growth and evolution. Due to this, more and more people are attracted and motivated to become a part of the giant IT industry. Students with a sincere inclination towards computers and technology can take up MCA course to enhance their career and salary prospects.</b></p>
+           <p><b><u>*MCA Eligibility</u></b><br>Eligibility Criteria for MCA degree course is as follows:<br>
+           <b>-></b>Aspirants must have graduated from a UG program in computer applications, computer science, or a closely related discipline with at least a 50% aggregate to be eligible for the MCA course.<br>
+           <b>-></b>Aspirants must have mathematics as one of their subjects in Class 12 to be eligible for master of computer applications course. 
+           <p><b><u>*Who Should Study for an MCA?</u></b><br>The Master of Computer Applications should be taken up by candidates who are interested in pursuing a career as a Software Developer.<br><b>-></b>The MCA course should be taken up by candidates who want to work in the IT industry.<br><b>-></b>Master of Computer Applications can be pursued by working professionals in distance mode who wish to enhance their job prospects and career growth.<br><b>-></b>Candidates who have completed their BCA program can take up the MCA course for better job roles.</p><br>
+         
+           <p><button class="button"><a href="After MCA .pdf">EXAMS AND JOBS AFTER MCA</button></a></p>
+        </div>
+      </div>
+    </div>
+  
+    <div class="column">
+      <div class="card">
+        <img src="mba.gif" style="width:80%">
+        <div class="container">
+          <h2>M.B.A</h2>
+          <p class="title"><b>Master of Business Administration</b></p>
+          <p>Master of Business Administration is a postgraduate program with a course duration of <b>2-years</b>.
+          <p><b>*MBA is one of the most popular post-graduate courses in India and abroad.For most of the managerial level jobs across domains and sectors an MBA degree is a necessity which is why, nowadays a large number of BTech, BBA, BCom, BA, BSc, BCA graduates opt for MBA in post graduation.</b><br>
+
+          <b>*The MBA course is an academic programme oriented towards management and marketing.<br>*It includes subjects such as Organisational Behaviour,Marketing,Principles of Management,Supply Chain Management,Operations Management, etc.<br>*Top recruiters for MBA are Amazon, Apple, Bain & Company, Citigroup, Deloitte, Facebook, Accenture, etc.The roles on offer for MBA graduates are generally of middle management levels such as Finance Manager,Product Manger,Strategy Manager,HR Manager, etc.</b><br> 
+
+          <P><b><u>*MBA Eligibility</u><br>-></b>The basic eligibility criteria for MBA (full-time) is graduation in any discipline or equivalent from a recognised university.
+            <br><b>-></b>Most of the institutes follow the minimum score criteria in Graduation which is 50 per cent in average or equivalent<br><b>-></b>Professionals with CA/CS/ICWAI and other degrees can also pursue M</P>
+
+          <P><b><u>*Why Should i Study MBA?</u><br>-></b>You’ll get access to an extensive business network<br><b>-></b>ou’ll get the knowledge to start your own company from scratch<br><b>-></b>MBA degrees are great for a career change and thriving business opportunities<br><b>-></b>MBA degrees are not difficult to graduate although they are challenging<br><br></b></P>
+          
+          <p><button class="button"><a href="after MBA.pdf">EXAMS AND JOBS AFTER MBA</button></a></p>
+        </div>
+      </div>
+    </div>
+  
+    <div class="column">
+      <div class="card">
+        <img src="MCOM.gif" alt="John" style="width:80%">
+        <div class="container">
+          <h2>M.Com</h2>
+          <p class="title">Masters of Commerce</p>
+          <p>The M.Com course is a two-year postgraduate degree that deals with commerce and the advancement of finance. </p>
+          <p><b>*The subject's goal is to train individuals for effective management in the fields of finance and commerce. M.Com graduates can find work as a Mutual Fund Broker, Finance Bookkeepers, Budget Analysts, or Business Consultant.</b><br>
+          <b>*The two-year course delves deeper into the functioning of the economy,capital,revenue,trade,taxes, etc. taught in B.Com. MCom is a very versatile course and gives the students to choose their careers in various fields. </b><br>
+          <b>*MCom covers a wide area for study and research and has many specializations to offer besides MCom (General) and MCom (Honours) such as:Taxation,Accounting & Finance,Business Management,Marketing,Banking and Finance,E-Commerce,Statistics.</b></p>
+          <P><b><u>*M.Com Eligibility</u><br>-></b>The candidate must have secured a minimum of 50% aggregate in BCom or BCom (Honours), or equivalent from a recognised university.<br><b>-></b>Some universities also induct a minimum score of minimum of 60% aggregate<br>
+            <b>-></b>Reserved category students are entitled to marks relaxation of up to 5%.State-level universities also offer marks relaxation to home-state students.<br></p>             
+            
+            <P><b><u>*Who Should Pursue M.Com?</u><br>-></b>Candidates who want to pursue a career in Commerce stream should pursue the M.Com course.<br><b>-></b>Candidates who wish to pursue a career in Banking Financial Service and Insurance sector should pursue the M.Com course.<br><b>-></b>
+           Candidates who want to pursue different leadership positions in the industries should opt for the M.Com courses.<br><b>-></b>
+           Candidates who wish to pursue a career as an Auditor can take up the M.Com course.<br>     
+
+           <p><button class="button"><a href="After M.com.pdf">EXAMS AND JOBS AFTER M.Com</button></a></p>
+        </div>
+      </div>
+    </div>
+  </div>
+
+</body>
+</html>

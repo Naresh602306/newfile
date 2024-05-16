@@ -1,0 +1,214 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8" />
+        <title>After 12th</title>
+
+      </head>
+    <style>
+
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 0;
+  }
+  
+  html {
+    box-sizing: border-box;
+  }
+  
+  *, *:before, *:after {
+    box-sizing: inherit;
+  }
+  
+  .column {
+    float: left;
+    width: 33.3%;
+    margin-bottom: 16px;
+    padding: 0 8px;
+  }
+  
+  .card {
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+    margin: 8px;
+  }
+  
+  .about-section {
+    padding: 50px;
+    text-align: center;
+    background-color: #474e5d;
+    color: white;
+  }
+  
+  .container {
+    padding: 0 16px;
+  }
+  
+  .container::after, .row::after {
+    content: "";
+    clear: both;
+    display: table;
+  }
+  
+  .title {
+    color: grey;
+  }
+  
+  .button {
+    border: none;
+    outline: 0;
+    display: inline-block;
+    padding: 8px;
+    color: white;
+    background-color: rgba(79, 119, 230, 0.912);
+    text-align: center;
+    cursor: pointer;
+    width: 100%;
+  }
+  .button a{
+    font-size: x-large;
+    font-weight: 500;
+  }
+  .button:hover {
+    background-color: rgb(89, 180, 237);
+  }
+  
+  @media screen and (max-width: 650px) {
+    .column {
+      width: 100%;
+      display: block;
+    }
+  }
+
+</style>
+ <body>
+ <a href="index.html"class="button">GO BACK</a>
+
+<div class="about-section">
+    <h1>CAREER OPTIONS AFTER 12th</h1>
+    <p>Selecting a good career opportunity after 12th is a nerve-racking task. The career should be of their interest areas and it should also fetch a handsome salary. Students pursue their 12th standard in different streams namely Science, Commerce, and Humanities based on the career fields attract them the most. However, it is imperative to do comprehensive research on career options after 12th available in their domains which align with their interests too. We have listed down various career options available in different streams to pursue a bright start to your career. However, before we go ahead and explore the career opportunities after 12th, we have to make sure that our 12 board results are on par with the stream that we want to pursue.</p>
+    <h1></h1>
+  </div>
+  
+  <h1 style="text-align:center">Best Careers Options After 12th SCIENCE</h1>
+  <div class="row">
+    <div class="column">
+      <div class="card">
+        <img src="medic.gif" alt="Jane" style="width:90%">
+        <div class="container">
+          <h2>1. Medical</h2>
+          <p>The medical field encompasses everything from diagnostic practice to other related activities undertaken across the healthcare, pharmaceutical, and biotech-based industries. It is arguably one of the most popular courses after 12th science. If you have studied Physics, Chemistry, Biology (PCB) at the 10+2 level, you can think about the following courses:</p>
+          <p><b>-Bachelor of Medicine and Bachelor of Surgery (MBBS) </b> </p>
+          <p><b>-Bachelor of Dental Surgery </b> </p>
+          <p><b>-Bachelor of Pharmacy </b> </p>
+          <p><b>-Bachelor of Medical Lab Technology </b> </p>
+          <p><b>-Physiotherapy (BPT) or Occupational Therapy (BOT) </b> </p>
+          <p><b>-B.Tech/BE in Biotechnology </b> </p>
+          <p><b>-Healthcare data mining </b> </p>
+          <p><b>-Cognitive neuroscience and artificial intelligence</b> </p><br>
+
+          <p><button class="button"><a href="Competitive Exams After Class 12th.pdf">LIST OF EXAMS AFTER 12th</button></a></p>
+        </div>
+      </div>
+    </div>
+
+    <div class="column">
+        <div class="card">
+          <img src="engg.gif" alt="Jane" style="width:90%">
+          <div class="container">
+            <h2>2. Engineering</h2>
+            <p>The engineering profession offers a vast range of career options after 12th science. Some of them are listed below:
+            </p>
+            <P><b>-Mechanical Engineers:</b>They apply principles of physics and mathematics to design, produce, and operate machinery.<br> 
+            <b>-Electrical and Electronics Engineers:</b>They are responsible for designing, building, testing, and supervising the manufacture of electrical systems and electronic equipment, such as electric motors, navigation, and communication systems. <br>
+            <b>-Computer Engineers:</b>Their work is concerned with computer programming, software development, mobile, and web applications.<br>
+            <b>-Civil Engineers:</b>They conceive, supervise, and maintain infrastructure projects in the public and private sectors, including buildings, dams, bridges, airports, water supply, and sewage systems. <br>
+            <b>-Chemical Engineers</b>They design and develop chemical manufacturing processes. These skilled experts solve problems related to production or use of chemicals, drugs, fuel, food, and other products. <br>
+            <b>-Aerospace Engineers</b>They take on specialized areas of aircraft and spacecraft development.<br>
+            </p>
+  
+            <p><button class="button"><a href="Jobs After 12th.pdf">JOBS AFTER 12th</button></a></p>
+          </div>
+        </div>
+      </div>
+  
+      <div class="column">
+        <div class="card">
+          <img src="degree.gif" alt="Jane" style="width:90%" >
+          <div class="container">
+            <h2>3. Degree</h2>
+            <p>The science students can select fields with Mathematics or with Biology. If you are interested in Mathematics you can select fields related to Engineering. Students interested in Biology take upMedicallyl related fields. There are numerous opportunities for science students.</p>
+            <p><b>-B.Sc. </b>Bachelor of Science
+                B.Sc. offers theoretical and practical knowledge about different subject areas. It covers all the main streams of Science. </p>
+            <p><b>-BCA</b>Bachelor of Computer Applications is an undergraduate degree course in the field of Computer Applications. Few students use online or distance education programs to pursue this degree. BCA distance education the course has great career options for the students after they complete it.</p>
+            <b>-BSc. Medical Laboratory Technology</b> <br>
+            <b>-BSc. Cardiac Laboratory Technology </b><br> 
+            <b>-BSc. Dialysis Technology </b> <br>
+            <b>-Bsc agriculture </b> <br>
+            <b>-BSc biotechnology</b> <br>
+            <b>-B Pharma</b> </p><br>
+  
+            <p><button class="button"><a href="10career.pdf">CAREER CHART</button></a></p>
+          </div>
+        </div>
+      </div>
+
+   <br><br>
+      <h1 style="text-align:left">After 12th COMMERCE</h1>
+      <div class="row">
+        <div class="column">
+          <div class="card">
+            <img src="cdegree.gif" alt="Jane" style="width:100%">
+            <div class="container">
+              <h2>1. Degree (commerce)</h2>
+              <p>Now a day’s students are preferring commerce to science. As commerce gives same number of career opportunities as that of the science. Commerce students have great career options when it comes to graduation.</p>
+              <b>-B. Com </b>Bachelor of commerce is a graduation course where you will be able to complete your higher studies with commerce subjects <br>
+              <b>-B.B.M</b>Bachelor of Business Management
+                It is a 3-year Degree course. Many MNCs recruit skilled B.B.A. graduates for management and finance related posts <br>
+              <b>-C.A</b>Chartered Accountant
+                It is to handle the financial affairs of businesses and companies in accordance with the laws set by Government authorities. <br>
+              <b>-Law </b>Earlier, only Graduates were allowed to pursue L.L.B. But, new rules, states it is also possible for 12th Commerce students to pursue Law course from Law schools after schooling. <br>
+              <b>-B.H.M</b>Bachelor of Hotel Management.
+                It has got elements of the hospitality sector. But, degree course in Hotel Management is more valuable than the hospitality diploma courses <br>
+              </p>
+    
+              <p><button class="button"></button></p>
+            </div>
+          </div>
+        </div>
+
+
+        <div class="column">
+          <div class="card">
+            <img src="business.gif" style="width:100%">
+            <div class="container">
+              
+            </div>
+          </div>
+        </div>
+
+
+        <h1 style="text-align:center">After 12th ARTS</h1>
+        
+          <div class="column">
+            <div class="card">
+              <img src="cdegree.gif" alt="Jane" style="width:100%">
+              <div class="container">
+                <h2>1. Degree (Arts)</h2>
+                <p>There is a misconception that degree in arts is of no use now. There is a myth that arts may not be a strong field to build a career. Arts usually lets the student acquire in-depth knowledge of the subject. That indirectly gets good jobs with high pay.</p>
+                <b>-B. A </b>Bachelor of Arts
+                It is the traditional professional courses that many Arts stream students pursue. Students are supposed to go through a not too tough syllabus. <br>
+                <b>-B.B.A </b>Bachelor of Business Administration
+                   Many MNCs recruit skilled B.B.A. graduates for management and finance related posts <br>
+                <b>-B.J.M.</b>Bachelor of Journalism and Mass Communication
+                This is a job oriented and ‘in demand’ course. The Media sector is growing immensely. Not just the traditional forms of Media like print and TV, online media is also catching up. <br>
+                <b>-Bachelor of Mass Media</b><br>
+                <b>-Integrated BA- B. ED</b><br>
+                </p>
+      
+                <p><button class="button"></button></p>
+              </div>
+            </div>
+          </div>
+  
+</body>
+</html>

@@ -1,0 +1,96 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>About Us Section</title>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<link rel="stylesheet" href="https://pro.fontawesome.com/releases/v5.10.0/css/all.css">
+	<link rel="stylesheet" type="text/css" href="int3.css">
+</head>	
+<body>
+	<div class="section">
+		<div class="container">
+			<div class="content-section">
+				<div class="title">
+					<h2>How to Prepare for a Job Interview So You’ll Convince Them You’re the Right Hire</h2><br>
+				</div>
+				<div class="content">
+					<h2>Learn everything you can about the company, the job, and the interview.</h2>
+					<p>A lot of your interview preparation will depend on the
+						 specifics surrounding the job, the company, and even who is interviewing you and how.</p>
+
+					<h2>1. Research the company.</h2>
+					<p>Spend a few hours learning everything you can about the company—from as many sources as you can. Talk to people in your network to find
+						 current and previous employees, read current news releases, and, yes, spend some time on Google. Often, candidates just look at
+						  the information a company is pushing out on its own website and social media accounts, but fail to look more in depth at what
+						   others are saying. By looking at multiple sources, you’ll get a broader picture of the company (along with any negative press),
+						   and be ready to talk about why you’d like to work there and what you can do for them. </p>
+						 <br>
+
+					<h2>2. Learn everything you can about the open position.</h2>
+					<p>Before you can show your interviewer why you’d be a great hire, you need to know what they’re looking for. Luckily, most organizations have laid out exactly what they want in an applicant in the job posting. So go back to the description you looked at before you applied. What skills and experiences are they 
+						emphasizing? What problems will this hire need to solve? These are the things you’ll want to emphasize throughout your interview.
+					</p><br>
+
+
+					<h2>3. Try out the company’s product or service (if you can). </h2>
+					<p>If the company you’re interviewing for sells a product you can feasibly check out—try it before your interview 
+						(ideally, a few times). If hired, your goal will be to create value for the people who use that product, and
+						 being a user yourself is the first step. Plus, it’ll help show the hiring manager that you’re truly interested
+						  in the role.  </p><br>
+
+					<h2>4. Learn about the interviewers (without being creepy!)</h2>
+					<p>If you’re not told who you’ll be meeting with during your interview, ask. For each interviewer, learn what their role at the company is and prep some questions that are specific to them. You can ask for details about their role, discuss current events
+						 related to their field, or bring up a common interest you know they have outside the office (just stick to one mentioned in an easily accessible spot, like their company bio or LinkedIn profile).  </p>
+                     <br>
+					<h2>4. Prepare your stories.</h2>
+					<p>Most interviewers will ask at least a few behavioral questions, that is, questions about how you’ve acted or would act in certain scenarios. While you can’t anticipate every possible situation you’ll be asked about, you can prepare
+						 a few stories about your past work experiences that you can adapt as needed. </p><br>
+
+					<h2>5. Be ready to tell the interviewer about yourself.  </h2>
+					<p>For every interview, you’ll want to have an answer to “Tell me about yourself” that’s tailored to this job and company and ready to go. Interviewers almost always ask this question or a similar one—like “Walk me through your
+						 resume”—to start off the conversation, so you want to make sure you’re getting started on the right foot. </p><br>
+					
+					
+					<h2>6. Know why you’re interested in this position at this company. </h2>
+					<p>It’s likely you’ll get asked why you’re interested in this particular role and company. (And if you can’t answer this question, you shouldn’t be in the interview!) So to make sure you can answer, identify a couple of key factors about the job and the organization that align well with your strengths, interests, and/or work style and get you excited about the position. Even if you’re not asked about this specifically, you can use this to inform your answers to other questions.
+						 </p><br>
+
+
+					<h2>7. Do some salary research. </h2>
+					<p>Even if you’re not ready to have the money conversation, you might still get asked about your salary expectations. To keep yourself from getting caught off guard and giving (or agreeing to) a way-too-low number, do
+						 a bit of salary research to figure out how you’d answer. </p><br>
+
+
+					<h2>8. Brush up on your interview skills. </h2>
+					<p>How well you answer interview questions isn’t everything—though it is a lot. Interviewers are also consciously or subconsciously picking up on how well you use other interview skills such as active listening, small talk, and empathy. 
+						These skills not only help you impress an interviewer, but also give them a sense of what it might be like to work you as a colleague. </p><br>
+
+					<h2>9. Think about body language.  </h2>
+					<p>Brush up on what certain body language conveys. Be aware of what you’re communicating through your posture and stance—and make sure it’s good. (For example, sitting with your arms and legs crossed sends a message that you are closed-off or feel defensive.) Think your movements through ahead of time so you’re not distracted (or distracting) during the interview. If you’re on video, think about how you’ll show that you’re actively engaged in that format—putting 
+						the Zoom window near your camera so you’re not looking away from your interviewer,for example,or making non-verbal gestures or expressions to show that you’re listening without cutting off their microphone. </p><br>
+
+					<h2>10. Identify your selling points for this job.  </h2>
+					<p>Even if you’re a well-oiled interviewing machine, it’s essential to spend time thinking carefully about what skills, accomplishments, and interview answers will resonate with your interviewers most for this job. Your management abilities? Your creativity? Go back to your research and see what makes you most qualified. </p><br>
+
+
+
+					<div class="button">
+						<a href="">Read More</a>
+					</div>
+				</div>
+				
+			</div>
+			<div class="image-section">
+				<img src="https://ntp.sarc-iitb.org/static/img/NTP/about.gif">
+			</div>
+            <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+			<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+			<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+			<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+		</div>
+	</div>
+
+	
+</body>
+</html>

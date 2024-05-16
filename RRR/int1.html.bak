@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>About Us Section</title>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<link rel="stylesheet" href="https://pro.fontawesome.com/releases/v5.10.0/css/all.css">
+	<link rel="stylesheet" type="text/css" href="int1.css">
+</head>	
+<body>
+	<div class="section">
+		<div class="container">
+			<div class="content-section">
+				<div class="title">
+					<h1>INTERVIEW PROCESS</h1><br>
+				</div>
+				<div class="content">
+					<h2>1. What Is the Interview Process?</h2>
+					<p>The interview process is a multi-stage process for hiring new employees. The interview process typically
+						 includes the following steps: writing a job description, posting a job, scheduling interviews, conducting 
+						 preliminary interviews, conducting in-person interviews, following up with candidates and making a hire.</p>
+						 <br>
+					<h2>2. Interview Process Steps & How to Improve Them</h2>
+					<p> There is much debate by industry professionals on the best ways to improve the interview process. And by improve,
+						we mean attract and make better hires. One theory is that harder job interviews actually lead to better job matches-
+						but is this true? It turns out, yes. Candidates who go through a rigorous interview process often find that the company
+					  places a high value on finding employees who are a good match for both the position and the company culture.<br>
+					  Want to improve your company's interview process? Here are some steps to consider when structuring your interview process:<br>
+					 <strong>->The Phone Screener</strong><br>
+					  Phone interviews are an easy way to screen job seekers. In just a few quick questions, phone screeners allow you to vet a 
+					  candidate and make sure they are a strong match skill-wise before you decide to invest further time in them. At this stage,
+					  you'll want to focus on high-level questions to make sure they meet the requirements of the role.<br>
+					<strong>->The Skill Test</strong><br>Behavioral questions allow you to find the best fit for each role, and help you hire employees who 
+					can drive innovation, productivity, customer satisfaction and profits. Determine test objectives, e.g. personality, values, skills,
+					etc. and decide how candidates will be moved forward or eliminated based on the results.<br>  
+				     <strong>->The In-Person Interview</strong><br> At this stage in the interview process, you already know that the candidate is generally 
+					 well-qualified for the role, so it's time to dig further into culture fit and work style. See if you can identify what motivates a 
+					 candidate, what drew them to your company and how they work on a team, amongst other questions.<br>
+					<strong>->The Group Panel</strong><br> By meeting with a variety of people, candidates get a comprehensive picture of the culture and the job 
+					itself, and team members get a strong sense of the contribution the job seeker will make as an employee. Make sure you prepare 
+					interviewers with the job description and the candidate's resume. Also, don't forget to identify a panel leader, and assign roles 
+					to each interviewer based on job function and/or expertise.<br></p>
+					<h2>3. Great Interview Questions to Ask Candidates</h2>
+					<p> Struggling to come up with interview questions to ask your candidates? These questions will help you find top talent fast:<br>
+					    *What attracts you most to this position and company?<br>
+							*What was the best thing about your last job?<br>
+							*Tell me about a time you had a difficult working relationship with a colleague. What was the challenge, how did you address the situation and what did you learn from the experience?<br>
+							*What is a development area, a deficit, or a gap that you've had to overcome or improve in your career? How was that identified, and what did you do to improve?<br>
+							*What are two of the most satisfying accomplishments in your career? Tell me about each of them.<br>
+							*Do you have any questions for me?</p>
+					<div class="button">
+						<a href="">Read More</a>
+					</div>
+				</div>
+				
+			</div>
+			<div class="image-section">
+				<img src="https://static.wixstatic.com/media/ab056a_a8cfa7317713482dbf3047c04719a41c~mv2.gif">
+			</div>
+            <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+			<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+			<br><br><br><br>
+		</div>
+	</div>
+
+	
+</body>
+</html>

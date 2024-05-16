@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>About Us Section</title>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<link rel="stylesheet" href="https://pro.fontawesome.com/releases/v5.10.0/css/all.css">
+	<link rel="stylesheet" type="text/css" href="int2.css">
+</head>	
+<body>
+	<div class="section">
+		<div class="container">
+			<div class="content-section">
+				<div class="title">
+					<h1>INTERVIEW ROUNDS</h1><br>
+				</div>
+				<div class="content">
+					<h2>1. APTITUDE</h2>
+					<p>An aptitude test is a way for employers to assess a candidate’s abilities through a variety of different testing
+						 formats. Aptitude tests will test your ability to perform tasks and react to situations at work. This includes
+						  problem-solving, prioritisation and numerical skills, amongst other things. The psychometric tests are 
+						  multiple-choice and there is only ever one correct answer, your score is then marked and your level is 
+						  compared against other candidates who have taken the same test as you. There are free tests online that you 
+						  can take to gauge what sort of questions to expect when taking an aptitude test</p><br>
+
+					<h2> Why and how do you take an aptitude test?</h2>
+					<p> Aptitude tests are a great way for a hiring manager to gauge a candidate’s suitability to a role. They are a tool used to
+						 see how candidates might deal with the challenges of the role they are interviewing for.</p>
+						 <br>
+					<h2>Types of aptitude tests</h2>
+					<p><strong>Diagrammatic Reasoning – </strong>Tests your ability of logical reasoning, using diagrams and flowcharts.<br>
+						<strong>Numerical Reasoning –</strong> Tests your mathematical ability through percentages, averages and the like.<br>
+						<strong>Verbal Reasoning –</strong> Assesses you on your ability to assess verbal logic.<br>
+						<strong>Inductive Reasoning –</strong> Tests your ability to see patterns and analyse data,in a pressurised environment.<br>
+						<strong>Situational Judgement –</strong> Tests your problem-solving ability. <br>
+						<strong>Logical Reasoning –</strong> Tests your ability to recognise patterns, sequences or relationships between shapes and imagery.<br>
+						<strong>Abstract Reasoning –</strong> These are similar to IQ tests and assess general knowledge, and ability to utilise your knowledge in new situations.</p><br>
+
+
+					<h2>2. GROUP DISCUSSION</h2>
+					<p>Group discussion is when a group of people comes together to discuss a certain topic.Many Recruiters use group discussion (GD)
+						 to test a candidate’s communication skills, leadership skills, test topic knowledge, etc. There are also two other types of 
+						 GD that test the lateral thinking of a candidate. It is a short case study & Group exercise. Often the group discussion 
+						 rounds are considered tough, but it is not tough if you follow certain steps.</p>
+					<p><strong>*Having Rich Content with Good knowledge<br>*Being a leader<br>*Try to be relevant to the topic.<br>*Be a Good listener.<br>*Communication skills and Body language is very important. </strong></p><br>
+
+
+					<h2>3. Technical Round</h2>
+					<p> The purpose of technical interview questions is to assess if your level of technical knowledge is on par with what is 
+						required for the position you are interviewing for.<br>The interviewer will ask you to specify the technical education and training you have undergone and will attempt to assess how well-suited you are for the available position with their company.
+						Your response should include your formal educational qualifications and any additional courses you have done and certifications.</p>
+
+					<h2>4. HR round</h2>
+					<p> The HR round is an interview that’s typically conducted by a human resources generalist at the beginning of the hiring process. In this initial screen, HR interviewers want to find out general information about 
+						your previous roles, core qualifications, key strengths and weaknesses, and salary expectations.<br>During an HR round, you can expect high-level, general questions about you, your past work experience, and your motive for looking for a new position. Expect to receive 
+						questions that allude to your aptitudes and competencies, but that don't go too in depth about role-specific responsibilities.</p>
+
+
+
+					<div class="button">
+						<a href="">Read More</a>
+					</div>
+				</div>
+				
+			</div>
+			<div class="image-section">
+				<img src="https://miro.medium.com/max/1400/1*zlmwtg3fog11YXcU_rvfWA.gif">
+			</div>
+            <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+			<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+			<br><br><br><br><br><br><br><br>	<br><br>	<br><br>	<br><br>
+		</div>
+	</div>
+
+	
+</body>
+</html>

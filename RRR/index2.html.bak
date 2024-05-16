@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <title>Interview</title>
+    <!-- Coding With NIck -->
+
+    <!-- Google Fonts -->
+    <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;500;700;900&display=swap" rel="stylesheet">
+
+    <!-- Font Awesome -->
+    <script src="https://kit.fontawesome.com/e48d166edc.js" crossorigin="anonymous"></script>
+
+    <!-- Style Sheet -->
+    <link rel="stylesheet" href="style2.css">
+
+</head>
+<body>
+<a href="home.html"class="button">GO BACK</a>
+    
+    <div class="container">
+        <div class="section-title">
+            <h1><b>INTERVIEW GUIDE</b></h1>
+        </div>
+
+        <div class="row">
+
+            <div class="column">
+                
+                <div class="effect">
+                    <div class="effect-img">
+                        <img src="https://cdn.dribbble.com/users/500242/screenshots/3672858/bh-advisor-dribbble.gif" alt="">
+                    </div>
+                    <div class="effect-text">
+                        <div class="inner">
+                            <h2>INTERVIEW PROCESS</h2>
+                            <p>The interview process typically includes the following steps: writing a job description, posting a job, scheduling interviews, conducting preliminary interviews, conducting in-person interviews, following up with candidates and making a hire.</p>
+                            <div class="effect-btn">
+                                <a href="int1.html" class="btn"><i class="fa fa-eye"></i> Read More</a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="column">
+                <div class="effect">
+                    <div class="effect-img">   
+                        <img src="https://cdn.dribbble.com/users/1035257/screenshots/2532370/we_re-hiring_loop.gif" alt="">
+                    </div>
+                    <div class="effect-text">
+                        <div class="inner">
+                            <h2>INTERVIEW ROUNDS</h2>
+                            <p>The typical employer will interview at least 3-4 rounds of interviews before receiving an offer letter.It includes an HR round,Technical round,group discussion and final interview.</p>
+                            <div class="effect-btn">
+                                <a href="int2.html" class="btn"><i class="fa fa-eye"></i> Read More</a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="column">
+                <div class="effect">
+                    <div class="effect-img">
+                        <img src="https://r7q6w9z6.rocketcdn.me/career/wp-content/uploads/2021/01/0fb047326b3c85e9d1e57b159d21935c531c-600x450.gif" alt="">
+                    </div>
+                    <div class="effect-text">
+                        <div class="inner">
+                            <h2>HOW TO PREPARE FOR INTERVIEW</h2>
+                            <p>So to help you prepare,we compiled a list of all-time best pre interview tips.From strategizing about how to tackle the toughest questions to packing your bag.We got u covered with 10 ways</p>
+                            <div class="effect-btn">
+                                <a href="int3.html" class="btn"><i class="fa fa-eye"></i> Read More</a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+        </div>
+    </div>
+
+    
+</body>
+</html>
